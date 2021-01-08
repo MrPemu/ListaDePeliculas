@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListaDePeliculas</string>
+    <string name="nombre">Nombre</string>
+    <string name="genero">Genero</string>
+    <string name="url_imdb">URL IMDB</string>
+    <string name="url_imagen">URL IMAGEN</string>
+    <string name="submit">SUBMIT</string>
+</resources>
